@@ -1,0 +1,42 @@
+{
+    "perros": [
+       {
+         "id":1,
+         "raza":"Bichón Boloñes",
+         "thumbanail":"https://cdn.royalcanin-weshare-online.io/u_pKHWsBIYfdNSoCOxqf/v1/bd33bl-hub-bolognese-adult-standing?w=320&auto=compress&fm=jpg",
+         "imagen":"https://cdn.royalcanin-weshare-online.io/vfpNHWsBIYfdNSoCqRqj/v1/bd33h-hub-bolognese-black-and-white?w=960&auto=compress&fm=jpg",
+         "descripcion":"Estos perros muy serios son tranquilos, apacibles y muy apegados a sus compañeros humanos.",
+         "acercade":"Estos perros tan entrañables, que tienen una expresión tan seria, son conocidos por su inteligencia, naturaleza observadora y disposición tranquila. La personalidad cómica y naturaleza curiosa los convierten en perros familiares muy queridos.",
+         "pais":"Italia",
+         "tamaño":"Muy pequeño",
+         "vida":"12-14 años"
+        
+        },
+        {
+            "id":2,
+            "raza":"Border Terrier",
+            "thumbanail":"https://cdn.royalcanin-weshare-online.io/6GlPHWsBG95Xk-RBdPjR/v1/bd35bl-hub-border-terrier-adult-standing?w=360&auto=compress&fm=jpg",
+            "imagen":"https://cdn.royalcanin-weshare-online.io/6WlQHWsBG95Xk-RBUviL/v1/bd35h-hub-border-terrier-adult-black-and-white?w=960&h=720&auto=compress&fm=jpg",
+            "descripcion":"Los border son indudablemente todo terrier. Nada asusta a estos pequeños y orgullosos perros.",
+            "acercade":"De estructura sólida, bien equilibrados y llenos de energía, los border terriers son intrépidos. Esta raza tiene todos los rasgos de conducta de un perro de trabajo",
+            "pais":"Reino Unido",
+            "tamaño":"Pequeño",
+            "vida":"12-15 años"
+           
+        },
+
+        {
+            "id":3,
+            "raza":"Chihuahua",
+            "thumbanail":"https://cdn.royalcanin-weshare-online.io/lPqsHGsBIYfdNSoCrxqw/v1/bd6bl-hub-chihuahua-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"https://cdn.royalcanin-weshare-online.io/x2mtHGsBG95Xk-RBmPhV/v1/bd6h-hub-chihuahua-adult-black-and-white?w=960&auto=compress&fm=jpg",
+            "descripcion":"La idea generalizada es que el Chihuahua es la raza de perros de pedigrí más pequeña del mundo.",
+            "acercade":"Hay dos variedades distintas de la raza: el de pelo corto y el de pelo largo. Cada una posee su propio temperamento distintivo. Los Chihuahua pueden ser muy fieles a una persona.",
+            "pais":"No es seguro",
+            "tamaño":"Pequeño",
+            "vida":"14-18 años"
+           
+        }
+
+    ]
+}

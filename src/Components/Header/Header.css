@@ -1,0 +1,63 @@
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.botones{
+    margin-right: 20px;
+}
+
+.logo{
+    max-width: 250px;
+    width: 100%;
+}
+.logo img {
+	max-width: 250px;
+}
+
+.btn-azul {
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    color: #000;
+    background-color: #00B2B1;
+    border-color: #00B2B1;
+    width: 9rem;
+
+}
+
+.btn-azul:hover {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #00B2B1;
+  }
+
+  .btn-registro {
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    color: #000;
+    color: #752995;
+    border-color: #752995;
+    width: 9rem;
+    
+}
+.btn-registro:hover {
+    color: #000;
+    background-color: #752995;
+    border-color: #752995;
+  }
+
+  @media screen and (min-width:768px){
+
+    header{
+        flex-direction: row;
+        justify-content: space-between;
+    }
+  }
+      
+  
