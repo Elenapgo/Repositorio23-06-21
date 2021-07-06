@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Repositorio23-06-21/static/css/main.6963868d.chunk.css",
+    "main.js": "/Repositorio23-06-21/static/js/main.98311ee1.chunk.js",
+    "main.js.map": "/Repositorio23-06-21/static/js/main.98311ee1.chunk.js.map",
+    "runtime-main.js": "/Repositorio23-06-21/static/js/runtime-main.ed3aaa17.js",
+    "runtime-main.js.map": "/Repositorio23-06-21/static/js/runtime-main.ed3aaa17.js.map",
+    "static/js/2.2516f3a0.chunk.js": "/Repositorio23-06-21/static/js/2.2516f3a0.chunk.js",
+    "static/js/2.2516f3a0.chunk.js.map": "/Repositorio23-06-21/static/js/2.2516f3a0.chunk.js.map",
+    "static/js/3.f86182b8.chunk.js": "/Repositorio23-06-21/static/js/3.f86182b8.chunk.js",
+    "static/js/3.f86182b8.chunk.js.map": "/Repositorio23-06-21/static/js/3.f86182b8.chunk.js.map",
+    "index.html": "/Repositorio23-06-21/index.html",
+    "static/css/main.6963868d.chunk.css.map": "/Repositorio23-06-21/static/css/main.6963868d.chunk.css.map",
+    "static/js/2.2516f3a0.chunk.js.LICENSE.txt": "/Repositorio23-06-21/static/js/2.2516f3a0.chunk.js.LICENSE.txt",
+    "static/media/EquipoVet.css": "/Repositorio23-06-21/static/media/fondoVet.6732ce65.jpg",
+    "static/media/golden.35c61c78.jpg": "/Repositorio23-06-21/static/media/golden.35c61c78.jpg",
+    "static/media/logo.8ea1505a.jpg": "/Repositorio23-06-21/static/media/logo.8ea1505a.jpg",
+    "static/media/paciente.75bca977.png": "/Repositorio23-06-21/static/media/paciente.75bca977.png",
+    "static/media/perroGato.95e84612.png": "/Repositorio23-06-21/static/media/perroGato.95e84612.png",
+    "static/media/vacunacion.eef4131b.png": "/Repositorio23-06-21/static/media/vacunacion.eef4131b.png",
+    "static/media/veterinario.7c9f6987.png": "/Repositorio23-06-21/static/media/veterinario.7c9f6987.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed3aaa17.js",
+    "static/js/2.2516f3a0.chunk.js",
+    "static/css/main.6963868d.chunk.css",
+    "static/js/main.98311ee1.chunk.js"
+  ]
+}
