@@ -1,0 +1,18 @@
+.card{
+    max-width: 540px;
+}
+
+.btn-detalles{
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    color: #000;
+    background-color: #00B2B1;
+    border-color: #00B2B1;
+    width: 9rem;
+}
+
+.card-text{
+    text-align: justify;
+}

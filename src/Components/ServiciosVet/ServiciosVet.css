@@ -1,0 +1,38 @@
+.cajageneral{
+ background-color: white;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+}
+
+.titulocaja {
+   text-align: center;
+   font-size: 2em;
+   font-weight: bold;
+   color: #752995; 
+   text-shadow: 2px 2px 3px black;
+}
+
+ .titulocaja hr {
+    width: 15%;
+    border-color:#00B2B1;
+}
+
+
+.cajaservicio{
+    padding: 20px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.cajaservicio img{
+    width: 200px;
+}
+
+
+@media screen and (min-width:768px){
+	.cajageneral{
+		flex-direction: row;
+	}
+}

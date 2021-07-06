@@ -1,0 +1,45 @@
+
+#promo{
+    display: flex;
+    flex-direction: column;
+       
+}
+.seccion1{
+ background-image: url("../../Asets/img/fondoVet.jpg");
+ padding-left: 20px;
+ box-shadow: 5px 5px 5px black;
+ padding: 20px 20px 20px;
+
+}
+
+.seccion2{
+   background-color: #752995;
+   align-items: center;
+   box-shadow: 5px 5px 5px black;
+   padding: 20px 100px 20px 100px;
+  
+}
+
+.seccion2 img {
+    border-radius: 100%;
+    display: flex;
+    text-align: center;
+    border: 5px solid white;
+    margin-bottom: 20px;
+
+}
+.seccion2 h3{
+    color: white;
+    text-shadow:2px 2px 2px black;
+   margin-left: 5px;
+}
+
+
+
+@media screen and (min-width:768px){
+	#promo{
+		flex-direction: row;
+
+	}
+
+}

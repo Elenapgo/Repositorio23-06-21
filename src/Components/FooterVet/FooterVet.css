@@ -1,0 +1,41 @@
+#info{
+	background-image: url("../../Asets/img/fondoVet.jpg");	
+}
+
+.cajainfo{
+	background-color: rgba(117,41,149,0.7);
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.cajai{
+	
+	color: #FFFFFF;
+	padding: 20px;
+	border-bottom: 1px solid #FFFFFF;
+	text-align: center;
+
+}
+
+.cajai i{
+	font-size: 3em;
+}
+.cajai h5{
+	margin: 10px 0;
+	font-size: 1.5em;	
+	font-weight: 400;
+}
+.cajai p{
+	text-align:center;
+	margin: 0;
+}
+
+
+
+
+@media screen and (min-width:768px){
+	.cajainfo{
+		flex-direction: row;
+	}
+}
